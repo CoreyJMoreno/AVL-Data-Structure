@@ -1,0 +1,218 @@
+AVL BST Test Program
+====================
+
+     ----- Verbose: Begin Loading Data From File
+
+  1) Inserting 015-203 and balancing
+Room number: 015-203 | Building/Classroom: Riles Building, Room 203 | Classroom setup: Traditional Classroom | Room capacity: 35
+
+  2) Inserting 073-999 and balancing
+Room number: 073-999 | Building/Classroom: Walkup Skydome, Room FIELD 999 | Classroom setup: Skydome Field | Room capacity: 75
+
+  3) Inserting 016-114 and balancing
+  Identified: Right Left Case
+   - Rotating Right
+    - Rotating Left
+Room number: 016-114 | Building/Classroom: Communications Building, Room 114 | Classroom setup: Computer Stations | Room capacity: 10
+
+  4) Inserting 027-216 and balancing
+Room number: 027-216 | Building/Classroom: Eastburn Education Building, Room 216 | Classroom setup: Traditional Classroom | Room capacity: 35
+
+  5) Inserting 088-242 and balancing
+Room number: 088-242 | Building/Classroom: John F. Wettaw Bio/Bio Chemistry Building, Room 242 | Classroom setup: Conference Style - Square | Room capacity: 16
+
+  6) Inserting 037-203 and balancing
+   Identified: Right Left Case
+    - Rotating Right
+     - Rotating Left
+Room number: 037-203 | Building/Classroom: Performing and Fine Arts Building, Room 203 | Classroom setup: Drafting Tables | Room capacity: 18
+
+  7) Inserting 082-112 and balancing
+Room number: 082-112 | Building/Classroom: Southwest Forest Science Complex, Room 112 | Classroom setup: Computer Stations | Room capacity: 24
+
+  8) Inserting 081-334 and balancing
+  Identified: Left Left Case
+    - Rotating Right
+Room number: 081-334 | Building/Classroom: W. A. Franke College of Business, Room 334 | Classroom setup: Traditional Classroom | Room capacity: 60
+
+  9) Inserting 018-210 and balancing
+Room number: 018-210 | Building/Classroom: Liberal Arts Building, Room 210 | Classroom setup: Traditional Classroom | Room capacity: 30
+
+ 10) Inserting 037-154 and balancing
+Room number: 037-154 | Building/Classroom: Performing and Fine Arts Building, Room 154 | Classroom setup: Piano Stations | Room capacity: 30
+
+ 11) Inserting 065-304 and balancing
+Room number: 065-304 | Building/Classroom: The Raul H. Castro Social & Behavioral Sciences Building, Rm 304 | Classroom setup: Traditional Classroom | Room capacity: 36
+
+ 12) Inserting 027-201 and balancing
+Room number: 027-201 | Building/Classroom: Eastburn Education Building, Room 201 | Classroom setup: Traditional Classroom | Room capacity: 38
+
+ 13) Inserting 082-135 and balancing
+Room number: 082-135 | Building/Classroom: Southwest Forest Science Complex, Room 135 | Classroom setup: Traditional Classroom | Room capacity: 28
+
+ 14) Inserting 065-337 and balancing
+Room number: 065-337 | Building/Classroom: The Raul H. Castro Social & Behavioral Sciences Building, Rm 337 | Classroom setup: Traditional Classroom | Room capacity: 36
+
+ 15) Inserting 090-102 and balancing
+Room number: 090-102 | Building/Classroom: USB, Room 102 | Classroom setup: Traditional Classroom | Room capacity: 42
+
+ 16) Inserting 027-151 and balancing
+  Identified: Right Left Case
+   - Rotating Right
+    - Rotating Left
+Room number: 027-151 | Building/Classroom: Eastburn Education Building, Room 151 | Classroom setup: Seminar Seating | Room capacity: 20
+
+ 17) Inserting 037-219 and balancing
+Room number: 037-219 | Building/Classroom: Performing and Fine Arts Building, Room 219 | Classroom setup: Traditional Classroom | Room capacity: 30
+
+ 18) Inserting 027-150 and balancing
+   Identified: Right Left Case
+    - Rotating Right
+     - Rotating Left
+Room number: 027-150 | Building/Classroom: Eastburn Education Building, Room 150 | Classroom setup: Seminar Seating | Room capacity: 20
+
+ 19) Inserting 023-102 and balancing
+Room number: 023-102 | Building/Classroom: Babbitt Academic Annex Building 23, Room 102 | Classroom setup: Conference Style - Square" | Room capacity: 14
+
+ 20) Inserting 012-104 and balancing
+  Identified: Left Left Case
+    - Rotating Right
+Room number: 012-104 | Building/Classroom: Geology Building, Room 104 | Classroom setup: Computer Stations | Room capacity: 30
+
+ 21) Inserting 015-113 and balancing
+Room number: 015-113 | Building/Classroom: Riles Building, Room 113 | Classroom setup: Classroom Rows | Room capacity: 26
+
+ 22) Inserting 081-101 and balancing
+Room number: 081-101 | Building/Classroom: W. A. Franke College of Business, Room 101 | Classroom setup: Tiered Seating - Fixed | Room capacity: 200
+
+ 23) Inserting 037-125 and balancing
+Room number: 037-125 | Building/Classroom: Performing and Fine Arts Building, Room 125 | Classroom setup: Traditional Classroom | Room capacity: 44
+
+ 24) Inserting 064-029 and balancing
+Room number: 064-029 | Building/Classroom: duBois Center, Room 029 | Classroom setup: Traditional Classroom | Room capacity: 30
+
+ 25) Inserting 052-180 and balancing
+  Identified: Right Left Case
+   - Rotating Right
+    - Rotating Left
+Room number: 052-180 | Building/Classroom: Bilby Research Center, Room 180 | Classroom setup: Traditional Classroom | Room capacity: 24
+
+ 26) Inserting 023-107 and balancing
+  Identified: Left Right Case
+   - Rotating Left
+    - Rotating Right
+Room number: 023-107 | Building/Classroom: Babbitt Academic Annex Building, Room 107 | Classroom setup: Computer Stations | Room capacity: 25
+
+ 27) Inserting 018-214 and balancing
+   Identified: Left Left Case
+     - Rotating Right
+Room number: 018-214 | Building/Classroom: Liberal Arts Building, Room 214 | Classroom setup: Computer Stations | Room capacity: 24
+
+ 28) Inserting 033-109 and balancing
+  Identified: Left Left Case
+    - Rotating Right
+Room number: 033-109 | Building/Classroom: HRM - Eugene M. Hughes Building, Room 109 | Classroom setup: Traditional Classroom | Room capacity: 30
+
+ 29) Inserting 069-218 and balancing
+Room number: 069-218 | Building/Classroom: Engineering Building, Room 218 | Classroom setup: Traditional Classroom | Room capacity: 76
+
+ 30) Inserting 033-113 and balancing
+Room number: 033-113 | Building/Classroom: HRM - Eugene M. Hughes Building, Room 113 | Classroom setup: Traditional Classroom | Room capacity: 30
+
+ 31) Inserting 025-1220 and balancing
+Room number: 025-1220 | Building/Classroom: Health & Learning Ctr, Room 1220 | Classroom setup: Gym | Room capacity: 40
+
+ 32) Inserting 066-128 and balancing
+  Identified: Right Left Case
+   - Rotating Right
+    - Rotating Left
+Room number: 066-128 | Building/Classroom: Health Professions Building, Room 128 | Classroom setup: Medical Lab Stations | Room capacity: 48
+
+ 33) Inserting 069-317 and balancing
+     Identified: Left Right Case
+      - Rotating Left
+       - Rotating Right
+Room number: 069-317 | Building/Classroom: Engineering Building, Room 317 | Classroom setup: Computer Stations | Room capacity: 33
+
+ 34) Inserting 019-300 and balancing
+  Identified: Left Right Case
+   - Rotating Left
+    - Rotating Right
+Room number: 019-300 | Building/Classroom: Physical Sciences Building, Room 300 | Classroom setup: Science Lab Workstations | Room capacity: 15
+
+ 35) Inserting 018-215 and balancing
+Room number: 018-215 | Building/Classroom: Liberal Arts Building, Room 215 | Classroom setup: Computer Stations | Room capacity: 30
+
+ 36) Inserting 070-203 and balancing
+  Identified: Right Right Case
+    - Rotating Left
+Room number: 070-203 | Building/Classroom: SBS West Building, Room 203 | Classroom setup: Tiered Seating - Fixed | Room capacity: 24
+
+ 37) Inserting 011-201 and balancing
+Room number: 011-201 | Building/Classroom: Ashurst Auditorium Building, Room 201 | Classroom setup: Auditorium | Room capacity: 60
+
+ 38) Inserting 081-436 and balancing
+Room number: 081-436 | Building/Classroom: W. A. Franke College of Business, Room 436 | Classroom setup: Traditional Classroom | Room capacity: 58
+
+ 39) Inserting 065-317 and balancing
+Room number: 065-317 | Building/Classroom: The Raul H. Castro Social & Behavioral Sciences Building, Rm 317 | Classroom setup: Traditional Classroom | Room capacity: 54
+
+ 40) Inserting 016-107 and balancing
+Room number: 016-107 | Building/Classroom: Communications Building, Room 107 | Classroom setup: Computer Stations | Room capacity: 25
+
+ 41) Inserting 025-1408 and balancing
+  Identified: Left Right Case
+   - Rotating Left
+    - Rotating Right
+Room number: 025-1408 | Building/Classroom: Health & Learning Ctr, Room 1408 | Classroom setup: Racquetball Court | Room capacity: 20
+
+ 42) Inserting 033-115 and balancing
+  Identified: Right Right Case
+    - Rotating Left
+Room number: 033-115 | Building/Classroom: HRM - Eugene M. Hughes Building, Room 115 | Classroom setup: Dining | Room capacity: 40
+
+ 43) Inserting 019-112 and balancing
+  Identified: Right Right Case
+    - Rotating Left
+Room number: 019-112 | Building/Classroom: Physical Sciences Building, Room 112 | Classroom setup: Instructional Lab - Wet | Room capacity: 17
+
+ 44) Inserting 070-010 and balancing
+Room number: 070-010 | Building/Classroom: SBS West Building, Room 010 | Classroom setup: Computer Stations | Room capacity: 30
+
+ 45) Inserting 081-202 and balancing
+Room number: 081-202 | Building/Classroom: W. A. Franke College of Business, Room 202 | Classroom setup: Traditional Classroom | Room capacity: 60
+
+ 46) Inserting 081-344 and balancing
+Room number: 081-344 | Building/Classroom: W. A. Franke College of Business, Room 344 | Classroom setup: Computer Stations | Room capacity: 48
+
+ 47) Inserting 060-221 and balancing
+Room number: 060-221 | Building/Classroom: Student Academic Services, Room 221 | Classroom setup: Classroom Rows | Room capacity: 72
+
+ 48) Inserting 072-124 and balancing
+Room number: 072-124 | Building/Classroom: Nursing Building, Room 124 | Classroom setup: Tiered Seating | Room capacity: 40
+
+ 49) Inserting 025-3111 and balancing
+   Identified: Left Right Case
+    - Rotating Left
+     - Rotating Right
+Room number: 025-3111 | Building/Classroom: Health and Learning Center, Room 3111 | Classroom setup: Traditional Classroom | Room capacity: 36
+
+ 50) Inserting 036-513 and balancing
+   Identified: Left Right Case
+    - Rotating Left
+     - Rotating Right
+Room number: 036-513 | Building/Classroom: Science and Health, Room 513 | Classroom setup: Classroom Rows | Room capacity: 25
+
+     ----- Verbose: End Loading Data From File
+
+File uploaded, 50 items found
+
+In order display of input tree, with height: 6:
+011-201, 012-104, 015-113, 015-203, 016-107, 016-114, 018-210, 018-214, 018-215, 019-112, 019-300, 023-102, 023-107, 025-1220, 025-1408, 025-3111, 027-150, 027-151, 027-201, 027-216, 033-109, 033-113, 033-115, 036-513, 037-125, 037-154, 037-203, 037-219, 052-180, 060-221, 064-029, 065-304, 065-317, 065-337, 066-128, 069-218, 069-317, 070-010, 070-203, 072-124, 073-999, 081-101, 081-202, 081-334, 081-344, 081-436, 082-112, 082-135, 088-242, 090-102,
+
+Creating duplicate tree
+
+In order display of copied tree, with height: 6:
+011-201, 012-104, 015-113, 015-203, 016-107, 016-114, 018-210, 018-214, 018-215, 019-112, 019-300, 023-102, 023-107, 025-1220, 025-1408, 025-3111, 027-150, 027-151, 027-201, 027-216, 033-109, 033-113, 033-115, 036-513, 037-125, 037-154, 037-203, 037-219, 052-180, 060-221, 064-029, 065-304, 065-317, 065-337, 066-128, 069-218, 069-317, 070-010, 070-203, 072-124, 073-999, 081-101, 081-202, 081-334, 081-344, 081-436, 082-112, 082-135, 088-242, 090-102,
+
+End Program
